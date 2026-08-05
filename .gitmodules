@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DOEpro"]
+	path = DOEpro
+	url = https://github.com/uzairkhan11w/doepro
 [submodule "DataSum"]
 	path = DataSum
 	url = https://github.com/uzairkhan11w/datasum
